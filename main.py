@@ -1,7 +1,6 @@
 import pygame
 from sys import exit
 from random import randint
-from pygame.math import Vector2
 
 
 class Bird(pygame.sprite.Sprite):
